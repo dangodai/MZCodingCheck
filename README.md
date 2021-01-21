@@ -1,5 +1,12 @@
 # MZ Coding Check
 
+MarshallZehr currency conversion coding check. Node CLI written in Typescript.
+
+## Requirements
+
+* NodeJS (tested on v12.18.1)
+* npm (tested on 6.14.5)
+
 ## Compiling
 
 After checking out the repo
